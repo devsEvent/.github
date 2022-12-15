@@ -18,8 +18,8 @@
   <a href="#support">Support</a> •
   <a href="#contact">Contact</a>
 </p>
-<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore Front-end</strong></a> •
-<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore Back-end</strong></a> Codes
+<a href="https://github.com/devsEvent/frontend"><strong>Explore Front-end</strong></a> •
+<a href="https://github.com/devsEvent/backend"><strong>Explore Back-end</strong></a> Codes
 </div>
 
 <h2 id="introduction">
@@ -80,7 +80,9 @@ Hey, I'm glad you're visiting our GitHub page. We are a remote startup trying to
 🦜 Contact
 </h2>
 
-<a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-39A0E3.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-5D67E6?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Email-802FE9?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+> info@devevent.ir
+
+<a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-39A0E3.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-5D67E6?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="info@devevent.ir" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-802FE9?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <p align="right"><a href="#devs-event">back to top</a></p>
 
