@@ -2,14 +2,14 @@
   Devs Event
 </h1>
 
-<img src="1.png" alt="A community for people interested in participating in programming events">
+<img src="../profile/1.png" alt="A community for people interested in participating in programming events">
 
 
 
 <div align="center">
 <br/>
 <a href="https://github.com/othneildrew/Best-README-Template">
-<img src="logo.svg" alt="Logo" width="150" height="150">
+<img src="../profile/logo.svg" alt="Logo" width="150" height="150">
 </a>
 <h4 align="center">A community for people interested in participating in programming events</h4>
 <p align="center">
