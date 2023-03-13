@@ -52,7 +52,8 @@ Hey, I'm glad you're visiting our GitHub page. We are a remote startup trying to
 
 - [x] add about page
 - [ ] Add online rooms
-- [ ] Additional browser support
+- [x] Additional browser support
+- [ ] Add Profile
 - [ ] Add blog
     - [ ] Farsi
     - [ ] English
