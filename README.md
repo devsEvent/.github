@@ -9,7 +9,7 @@
 <div align="center">
 <br/>
 <a href="https://github.com/othneildrew/Best-README-Template">
-<img src="logo.svg" alt="Logo" width="150" height="150">
+<img src="logo.png" alt="Logo" width="150" height="150">
 </a>
 <h4 align="center">A community for people interested in participating in programming events</h4>
 <p align="center">
