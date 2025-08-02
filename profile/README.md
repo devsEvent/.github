@@ -2,7 +2,7 @@
   Devs Event
 </h1>
 
-<img src="1.png" alt="A community for people interested in participating in programming events">
+<img src="banner.png" alt="A community for people interested in participating in programming events">
 
 <div align="center">
 <br/>
